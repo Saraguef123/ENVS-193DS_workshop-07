@@ -1,5 +1,5 @@
 ---
-title: "Linear regression"
+title: "Linear regression adding comment"
 author: "Sara"
 date: "MAY 16"
 format:
@@ -25,6 +25,8 @@ abalone <- read_xlsx(here("data", "Abalone IMTA_growth and pH.xlsx"))
 
 # Sonadora temperature data from Alonzo, A. 2024
 sonadora <- read_csv(here("data", "Temp_SonadoraGradient_Daily.csv"))
+
+
 ```
 
 # 2. Abalone example
